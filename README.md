@@ -2,11 +2,12 @@
 Tracking my daily TryHackMe lab completions and notes
 
 
+
 ##,ay 01, 2025
 * completed Room: [i'll mention this when i solve room today]
 
 ## April 30, 2025
-* Completed Room: [i'll mention this when i solve room today]
+* Completed Room:  Junior Security Analyst Intro 
 
 ## April 29, 2025
 * Completed Room: Security Principles.
