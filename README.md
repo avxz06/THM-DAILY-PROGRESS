@@ -4,7 +4,8 @@ Tracking my daily TryHackMe lab completions and notes
 
 
 ##,ay 01, 2025
-* completed Room: [i'll mention this when i solve room today]
+* completed Room: Neighbour
+* You'll learn to identify and exploit insecure direct object references (IDOR) by navigating user profiles to find hidden information.
 
 ## April 30, 2025
 * Completed Room:  Junior Security Analyst Intro 
