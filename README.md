@@ -1,11 +1,11 @@
 # THM-DAILY-PROGRESS
 Tracking my daily TryHackMe lab completions and notes
 
-#MAY 02, 2025
+## MAY 02, 2025
 * Completed Room: What is Networking?
 * About networks ip/mac 
 
-#May 01, 2025
+## May 01, 2025
 * completed Room: Neighbour
 * You'll learn to identify and exploit insecure direct object references (IDOR) by navigating user profiles to find hidden information.
 
