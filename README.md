@@ -1,6 +1,10 @@
 # THM-DAILY-PROGRESS
 Tracking my daily TryHackMe lab completions and notes
 
+## May 03, 2025
+* Completed Room: DNS in Detail
+
+
 ## MAY 02, 2025
 * Completed Room: What is Networking?
 * About networks ip/mac 
