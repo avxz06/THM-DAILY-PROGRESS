@@ -3,6 +3,7 @@ Tracking my daily TryHackMe lab completions and notes
 
 ## May 4, 2025
 * completed Room: Windows Fundamentals 1
+* In Windows Fundamentals 1, you'll explore the Windows desktop, NTFS file system, UAC, Control Panel, and Task Manager, gaining essential Windows OS knowledge
 
 ## May 03, 2025
 * Completed Room: DNS in Detail
