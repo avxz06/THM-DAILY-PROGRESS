@@ -1,6 +1,9 @@
 # THM-DAILY-PROGRESS
 Tracking my daily TryHackMe lab completions and notes
 
+## May 4, 2025
+* completed Room: Windows Fundamentals 1
+
 ## May 03, 2025
 * Completed Room: DNS in Detail
 * You'll learn the intricacies of the Domain Name System, including its structure, how domain names are resolved to IP addresses, different record types, and practical DNS analysis techniques.
