@@ -3,7 +3,7 @@ Tracking my daily TryHackMe lab completions and notes
 
 ## May 13, 2025
 * Completed Room: Web Application Security
-* 
+*  web application security concepts and common vulnerabilities like directory traversal and command injection
 
 ## May 11, 2025
 * Completed Room:  Web Application Basics
