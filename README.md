@@ -3,7 +3,8 @@ Tracking my daily TryHackMe lab completions and notes
 
 ## May 14, 2025
 * Completed Room: Introductory Researching
-*  
+*  You learn how to effectively use search engines, vulnerability databases, and manual pages to find information
+
 ## May 13, 2025
 * Completed Room: Web Application Security
 *  web application security concepts and common vulnerabilities like directory traversal and command injection
