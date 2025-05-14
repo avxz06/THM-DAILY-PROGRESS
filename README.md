@@ -1,6 +1,9 @@
 # THM-DAILY-PROGRESS
 Tracking my daily TryHackMe lab completions and notes
 
+## May 14, 2025
+* Completed Room: Introductory Researching
+*  
 ## May 13, 2025
 * Completed Room: Web Application Security
 *  web application security concepts and common vulnerabilities like directory traversal and command injection
