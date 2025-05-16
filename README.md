@@ -1,6 +1,11 @@
 # THM-DAILY-PROGRESS
 Tracking my daily TryHackMe lab completions and notes
 
+## May 16, 2025
+* Completed Room: Linux Fundamentals Part 1
+
+
+
 ## May 14, 2025
 * Completed Room: Introductory Researching
 *  You learn how to effectively use search engines, vulnerability databases, and manual pages to find information
