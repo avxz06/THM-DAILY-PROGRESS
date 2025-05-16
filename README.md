@@ -3,6 +3,7 @@ Tracking my daily TryHackMe lab completions and notes
 
 ## May 16, 2025
 * Completed Room: Linux Fundamentals Part 1
+* "Linux Fundamentals Part 1" teaches essential Linux commands for file navigation, content viewing, searching, and basic shell operations through practical exercises.
 
 
 
