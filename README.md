@@ -1,6 +1,10 @@
 # THM-DAILY-PROGRESS
 Tracking my daily TryHackMe lab completions and notes
 
+## May 19, 2025
+* Completed Room: Governance & Regulation
+* 
+
 ## May 18, 2025
 * Completed Room: Vulnversity
 * Learn about active recon, web app attacks and privilege escalation.
