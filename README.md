@@ -3,7 +3,8 @@ Tracking my daily TryHackMe lab completions and notes
 
 ## May 19, 2025
 * Completed Room: Governance & Regulation
-* 
+* Explore policies and frameworks vital for regulating cyber security in an organisation.
+
 
 ## May 18, 2025
 * Completed Room: Vulnversity
